@@ -1,1 +1,1 @@
-# Remotely operated boat that act as a base for various sensors 
+An unmanned craft that can be used for research and analysis of water bodies.
